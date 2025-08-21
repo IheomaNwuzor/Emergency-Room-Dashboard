@@ -81,6 +81,5 @@ o	Ensure dashboard usability for multiple stakeholders.
 
 ## Conclusion
 The HeartBits ER Dashboard demonstrates how healthcare operations are  transformed through real-time monitoring and data visualisation using Tableau. By identifying peak demand, optimising resource allocation, and tracking patient satisfaction, the dashboard provides actionable insights that directly improve efficiency and quality of care. This project showcased business intelligence and healthcare analytics, while addressing a real-world problem with data-driven solutions.
-By merging patient demographics and operational metrics, this dashboard offers a comprehensive view of ER performance. It assists hospital managers in identifying bottlenecks, monitoring wait times, and tracking satisfaction in order to enhance care quality. Ultimately, it supports data-driven decision-making that improves patient outcomes and optimises resource allocation.
 
 
