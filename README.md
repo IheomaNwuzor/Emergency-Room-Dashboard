@@ -58,6 +58,30 @@ o	Tableau for dashboard creation.
 o	Calculated fields for KPIs (wait time averages, satisfaction scores).
 o	Filters for demographic and time-based analysis.
 
+## Detailed Steps 
+
+•	Data Sourcing and Preparation:
+
+o	Dataset cleaning and formatting.
+
+o	Data moving staging, table creation
+
+## Visual Representation of Data Moving, table creation and joining
+
+![Emergency room](https://github.com/user-attachments/assets/2189ff32-adbf-4f22-bcf9-fce6911b9c37)
+
+o	Proper data assignment (numerical, categorical, date).
+
+•	Creating calculated Fields for KPIs, Metrics & visualisations
+
+•	Visualisation Creation
+
+•	Dashboard Development
+
+•	Data analysis and Forecasting
+
+•	Recommendations
+
 ## Methodology
 1.	Import & Review Data
 o	Load dataset into Tableau, confirm column types.
