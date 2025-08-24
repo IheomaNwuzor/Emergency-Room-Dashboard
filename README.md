@@ -126,14 +126,11 @@ Tableau: For data extraction, transformation, table joing, KPIs, vusualization, 
 
 ## Conclusions
 
-This HR Attrition Dashboard illustrates the value of visual analytics in workforce management. It enables HR stakeholders to identify attrition patterns, examine them alongside job satisfaction and demographic data, and make informed policy adjustments. The dashboard is modular, scalable, and adaptable to organisational datasets, making it a valuable addition to any HR analytics toolkit.
+The HeartBits ER Dashboard demonstrates how healthcare operations are  transformed through real-time monitoring and data visualisation using Tableau. By identifying peak demand, optimising resource allocation, and tracking patient satisfaction, the dashboard provides actionable insights that directly improve efficiency and quality of care. This project showcased business intelligence and healthcare analytics, while addressing a real-world problem with data-driven solutions.
 
 # Author
 @Iheoma_Nwuzor
 # Contact me
 If you would like to discuss any job position, questions, suggestions, or just want to connect and say hello, you can reach out to me via [Email Me](mailto:iheomanwuzor@gmail.com) or [LinkedIn](https://www.linkedin.com/in/iheoma-nwuzor)
-
-## Conclusion
-The HeartBits ER Dashboard demonstrates how healthcare operations are  transformed through real-time monitoring and data visualisation using Tableau. By identifying peak demand, optimising resource allocation, and tracking patient satisfaction, the dashboard provides actionable insights that directly improve efficiency and quality of care. This project showcased business intelligence and healthcare analytics, while addressing a real-world problem with data-driven solutions.
 
 
