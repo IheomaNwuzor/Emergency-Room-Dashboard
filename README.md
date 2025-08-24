@@ -131,6 +131,6 @@ The HeartBits ER Dashboard demonstrates how healthcare operations are  transform
 # Author
 @Iheoma_Nwuzor
 # Contact me
-If you would like to discuss any job position, questions, suggestions, or just want to connect and say hello, you can reach out to me via [Email Me](mailto:iheomanwuzor@gmail.com) or [LinkedIn](https://www.linkedin.com/in/iheoma-nwuzor)
+If you would like to discuss any new exploration, questions, suggestions, or just want to connect and say hello, you can reach out to me via [Email Me](mailto:iheomanwuzor@gmail.com) or [LinkedIn](https://www.linkedin.com/in/iheoma-nwuzor)
 
 
