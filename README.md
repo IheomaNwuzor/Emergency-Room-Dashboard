@@ -103,6 +103,36 @@ o	Ensure dashboard usability for multiple stakeholders.
 • Interactive Layout: Side navigation with hospital branding for quick access to essential information.
 • Colour Encoding: Consistent red/orange scheme to reflect healthcare urgency and attention.
 
+# Project includes
+Overview: A summary of key performance indicators (KPIs), such as number of patients, numv=ber of admitted patience, average wait time and average performance score.
+
+Admission status: Visual representations of admission status, showing total and maximum number of admitted and non admitted patience.
+
+Patience race: Charts showing the current month number of patience with their race.
+
+Gender distribution by age group: Donought charts illustrating the current moth number of patients with their gender distribution by age group.
+
+Visit days: Heatmap showing the current monthe number of patients by hour of day visited
+
+Timeline of weekly visit: Trent showing the current month number of patients by weekly visit.
+
+Filtering and Interactivity: Interactive elements allowing users to filter data based on specific criteria and perform ad-hoc analysis.
+
+## Technologies used
+
+Excel: For data extraction and cleaning
+
+Tableau: For data extraction, transformation, table joing, KPIs, vusualization, dashboard creation and data analysis.
+
+## Conclusions
+
+This HR Attrition Dashboard illustrates the value of visual analytics in workforce management. It enables HR stakeholders to identify attrition patterns, examine them alongside job satisfaction and demographic data, and make informed policy adjustments. The dashboard is modular, scalable, and adaptable to organisational datasets, making it a valuable addition to any HR analytics toolkit.
+
+# Author
+@Iheoma_Nwuzor
+# Contact me
+If you would like to discuss any job position, questions, suggestions, or just want to connect and say hello, you can reach out to me via [Email Me](mailto:iheomanwuzor@gmail.com) or [LinkedIn](https://www.linkedin.com/in/iheoma-nwuzor)
+
 ## Conclusion
 The HeartBits ER Dashboard demonstrates how healthcare operations are  transformed through real-time monitoring and data visualisation using Tableau. By identifying peak demand, optimising resource allocation, and tracking patient satisfaction, the dashboard provides actionable insights that directly improve efficiency and quality of care. This project showcased business intelligence and healthcare analytics, while addressing a real-world problem with data-driven solutions.
 
